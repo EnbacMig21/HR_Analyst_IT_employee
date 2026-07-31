@@ -20,4 +20,8 @@ Trong file README.md này sẽ giải thích thứ tự đọc file, mục đíc
 - [Lời kết]()
 
 ### Bài toán kinh tế 
-Giả sử đây là bộ dữ liệu về tình hình tuyển dụng nhân sự tại công ty Mỹ. Chúng ta tiến hành đánh giá, phân tích và tìm ra các điểm bất thường.
+"Sự sai lệch tiêu chí tuyển dụng" để chỉ việc từ chối hoặc chọn lựa sai ứng viên (trong thời gian dài) khỏi quy trình tuyển dụng do tiêu chí đánh giá không phù hợp, thời gian xem xét sai lầm, hoặc định giá sai ứng viên. Lỗi này dẫn đến thiệt hại kinh tế đáng kể cho doanh nghiệp.
+#### Ảnh Hưởng - Tại Sao Cần Hạn Chế Sai Lệch Tuyển Dụng?
+Sai lệch trong tuyển dụng gây hậu quả kinh tế nghiêm trọng: Tại Châu Âu, nghiên cứu [meta-analysis của Lippens, Vermeiren và Baert (2023)](https://econpapers.repec.org/article/eeeeecrev/v_3a151_3ay_3a2023_3ai_3ac_3as0014292122001957.htm) trên European Economic Review chỉ ra phân biệt đối xử với người khuyết tật, người lớn tuổi và dân tộc thiểu số vẫn duy trì ở mức cao, không giảm theo thời gian. Phân biệt chủng tộc tại Mỹ cũng không thay đổi trong 25 năm, với người da trắng nhận nhiều hơn 36% lời gọi phỏng vấn so với người da đen (Pager, 2017, PNAS). Những sai lệch này không chỉ gây bất công mà còn làm giảm chất lượng nhân sự, xói mòn văn hóa doanh nghiệp và cản trở tăng trưởng bền vững
+
+
