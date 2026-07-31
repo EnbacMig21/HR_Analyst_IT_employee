@@ -10,6 +10,7 @@ Sử dụng bộ dữ liệu về tình hình nhân sự tuyển dụng tại c�
    - Insight 1
    - Insight 2
    - Insight 3
+
 Trong file README.md này sẽ giải thích thứ tự đọc file, mục đích phân tích và trong các file đó có gì. Bên dưới đây sẽ là tổng quan, bối cảnh của bài phân tích từ đó giúp người đọc hiểu rõ về đề tài này.
 
 ## Danh mục nội dung 
