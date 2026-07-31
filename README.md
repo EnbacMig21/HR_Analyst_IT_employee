@@ -6,7 +6,7 @@ Sử dụng bộ dữ liệu về tình hình nhân sự tại công ty tại M�
 3. [Xử lý dữ liệu]()
 4. [Mô hình hóa dữ liệu]()
 5. [Phân tích dữ liệu]()
-   -Khám phá dữ liệu
-   -Tiến hành phân tích
-   -Đưa ra Insight
+   - Khám phá dữ liệu
+   - Tiến hành phân tích
+   - Đưa ra Insight
 6. [Kể chuyện qua dữ liệu và đề xuất hành động]()
