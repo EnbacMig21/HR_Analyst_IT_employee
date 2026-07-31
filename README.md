@@ -10,3 +10,12 @@ Sử dụng bộ dữ liệu về tình hình nhân sự tại công ty tại M�
    - Tiến hành phân tích
    - Đưa ra Insight
 6. [Kể chuyện qua dữ liệu và đề xuất hành động]()
+Trong file README.md này sẽ giải thích thứ tự đọc file, mục đích phân tích và trong các file đó có gì. Bên dưới đây sẽ là tổng quan, bối cảnh của bài phân tích từ đó giúp người đọc hiểu rõ về đề tài này.
+
+## Danh mục nội dung 
+- [Bài toán kinh tế]()
+- [Mục đích phân tích]()
+- [Giải thích file]()
+- [Lời kết]()
+
+### Bài toán kinh tế 
