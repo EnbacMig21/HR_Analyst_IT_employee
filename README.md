@@ -23,39 +23,11 @@ Trong file README.md này sẽ giải thích thứ tự đọc file, mục đíc
 ### Định nghĩa Sự sai lệch tiêu chí tuyển dụng
 Sai lệch tuyển dụng là hiện tượng người phỏng vấn hoặc người ra quyết định tuyển dụng bị chi phối bởi các yếu tố không liên quan trực tiếp đến năng lực thực tế của ứng viên, như: ngoại hình, giới tính, độ tuổi, trường đại học, giọng nói, xuất thân, hay thậm chí là “cảm giác hợp gu”. Thay vì dựa trên tiêu chí rõ ràng về kỹ năng, kinh nghiệm và tiềm năng đóng góp, quyết định lại bị dẫn dắt bởi định kiến vô thức. Hậu quả trực tiếp là: nhiều ứng viên tiềm năng bị loại đáng tiếc, trong khi một số ứng viên được chọn chưa chắc đã phù hợp nhất với công việc và văn hóa công ty. - [hiring bias](https://glints.com/vn/blog/hiring-bias-la-gi/)
 ### Ảnh Hưởng - Tại Sao Cần Hạn Chế Sai Lệch Tuyển Dụng?
-1. Chi phí tài chính: "Tuyển sai – trả đắt"
-   
-Chi phí cho một quyết định tuyển dụng sai có thể lên tới 30–200% lương năm đầu của nhân sự đó, tùy cấp độ và độ phức tạp của vị trí (Talent Traction, 2025; Talen.to, 2026; Treegarden, 2026).
+Sai lệch trong tuyển dụng có thể khiến những ứng viên có năng lực không được đánh giá công bằng, làm giảm cơ hội tiếp cận việc làm của một số nhóm ứng viên. Các nghiên cứu thực nghiệm cho thấy tình trạng phân biệt đối xử trong tuyển dụng vẫn tồn tại ở nhiều nhóm đối tượng. [Meta-analysis của Lippens, Vermeiren và Baert (2023) trên *European Economic Review*](https://doi.org/10.1016/j.euroecorev.2022.104315) tổng hợp các nghiên cứu về phân biệt đối xử trong tuyển dụng và cho thấy sự bất lợi vẫn xuất hiện đối với nhiều nhóm ứng viên, trong đó có người lớn tuổi, người khuyết tật và các nhóm có đặc điểm chủng tộc hoặc dân tộc nổi bật. Nghiên cứu cũng không tìm thấy bằng chứng về sự thay đổi theo thời gian một cách có hệ thống sau khi xem xét các yếu tố liên quan.
 
-Khoản chi này bao gồm: chi phí tuyển dụng lại, đào tạo, onboarding, chi phí cơ hội do vị trí trống, trợ cấp thôi việc, và mất doanh thu do sai sót trong công việc (Dice, 2022; RippleHire, 2024). Khi sai lệch tuyển dụng khiến doanh nghiệp liên tục "chọn nhầm người", chi phí này sẽ lặp đi lặp lại, ăn mòn lợi nhuận và làm giảm khả năng cạnh tranh.
+Tại Mỹ, [nghiên cứu của Quillian và cộng sự (2017)](https://doi.org/10.1073/pnas.1706255114) cho thấy từ năm 1989, ứng viên da trắng nhận được trung bình nhiều hơn 36% lời mời phản hồi so với ứng viên người Mỹ da đen có hồ sơ tương đương. Nghiên cứu cũng không ghi nhận sự suy giảm đáng kể trong mức độ phân biệt đối xử đối với ứng viên người Mỹ da đen trong khoảng thời gian được nghiên cứu.
 
-2. Năng suất và hiệu quả làm việc bị suy giảm
-   
-Một nhân sự không phù hợp sẽ làm việc chậm, sai sót nhiều, cần người khác hỗ trợ liên tục, không hòa nhập được với quy trình hoặc không đáp ứng được áp lực công việc. Điều này không chỉ ảnh hưởng đến cá nhân đó, mà còn kéo cả nhóm đi xuống: những người giỏi phải gánh thêm việc, bị quá tải, dần dần mất động lực (Studocu, 2025; ViecTotNguoiTot, 2025).
+Những kết quả trên cho thấy việc xây dựng các tiêu chí tuyển dụng phù hợp và đánh giá ứng viên dựa trên những yếu tố liên quan đến năng lực là cần thiết nhằm hạn chế sai lệch trong quá trình tuyển dụng. Đây cũng là cơ sở để sử dụng dữ liệu nhằm xem xét các yếu tố liên quan đến khả năng được tuyển dụng và hỗ trợ quá trình ra quyết định nhân sự.
 
-Về dài hạn, năng suất trung bình của cả phòng ban giảm, mục tiêu KPI/OKR khó đạt, và doanh nghiệp mất đi lợi thế về tốc độ và chất lượng so với đối thủ.
-
-3. Tác động đến văn hóa và tinh thần nhân viên
-   
-Sai lệch tuyển dụng gửi đi một tín hiệu văn hóa rất mạnh trong nội bộ. Khi nhân viên thấy quyết định tuyển dụng dường như dựa trên "quen biết", "cùng trường", "cùng gu" hơn là năng lực, hoặc một số nhóm người luôn bị thiệt thòi trong cơ hội, họ sẽ dần mất niềm tin vào tính công bằng của tổ chức.
-
-Cảm giác "chơi không fair" này làm giảm engagement, tăng bất mãn và khiến người giỏi dễ tìm cơ hội khác (Studocu, 2025; VietnamWorks, 2024). Ngược lại, khi doanh nghiệp chủ động hạn chế sai lệch, xây dựng quy trình tuyển dụng minh bạch, nhân viên sẽ cảm thấy được tôn trọng, từ đó gắn bó và cống hiến nhiều hơn.
-
-4. Bỏ lỡ nhân tài và giảm tính đa dạng
-   
-Khi nhà tuyển dụng vô thức ưu tiên những ứng viên "giống mình" hoặc phù hợp định kiến, họ dễ bỏ qua những người thực sự có năng lực nhưng khác biệt về nền tảng, phong cách, hoặc con đường sự nghiệp (HBR Việt Nam, 2026; HBR Việt Nam, 2025).
-
-Điều này dẫn đến đội ngũ thiếu đa dạng về tư duy, kinh nghiệm, góc nhìn; khả năng sáng tạo và giải quyết vấn đề bị hạn chế; tổ chức khó thích ứng với thị trường đa dạng. Nhiều nghiên cứu chỉ ra rằng, các đội ngũ đa dạng thường có hiệu quả ra quyết định tốt hơn, sáng tạo hơn và đạt kết quả kinh doanh cao hơn, với mức chênh lệch 12% về hiệu suất giữa tổ chức đa dạng và không đa dạng (ECI Solutions, 2025; IJRPR, 2025).
-
-5. Rủi ro pháp lý và tổn hại danh tiếng
-   
-Ở nhiều quốc gia, phân biệt đối xử trong tuyển dụng không chỉ là vấn đề đạo đức, mà còn vi phạm pháp luật (Studocu, 2025). Nếu một ứng viên cho rằng họ bị đối xử bất công, họ có thể khiếu nại, tố cáo hoặc khởi kiện doanh nghiệp.
-
-Những vụ việc như vậy không chỉ gây tốn kém về pháp lý, mà còn tổn hại nghiêm trọng đến danh tiếng của công ty. Trong thời đại mạng xã hội, một câu chuyện "tuyển dụng thiên vị" có thể lan nhanh, tạo hình ảnh tiêu cực trong mắt ứng viên, khách hàng và đối tác (Glints, 2024; ViecTotNguoiTot, 2025).
-
-6. Ảnh hưởng đến chiến lược dài hạn
-   
-Khi sai lệch tuyển dụng trở thành "thói quen", cơ cấu nhân sự dần lệch lạc: thiếu người giỏi thực sự, thừa người "vừa đủ" hoặc "không phù hợp"; leadership pipeline bị ảnh hưởng; chiến lược kinh doanh dài hạn khó thực hiện vì thiếu nhân sự chủ chốt đủ năng lực (HBR Việt Nam, 2026; RippleHire, 2024).
-Ngược lại, khi doanh nghiệp kiên quyết hạn chế sai lệch, xây dựng quy trình tuyển dụng dựa trên dữ liệu và tiêu chí rõ ràng, họ đang đầu tư vào chất lượng đội ngũ – yếu tố then chốt để thực hiện chiến lược và duy trì lợi thế cạnh tranh.
 ### Mục đích phân tích 
 
