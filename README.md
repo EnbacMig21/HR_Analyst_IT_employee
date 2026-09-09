@@ -33,13 +33,9 @@ Sự sai lệch trong tiêu chí tuyển dụng ảnh hưởng rất lớn đế
 
 ## Giải thích
 Các giải thích về cách đọc repo có thể được tìm thấy trong phần này.
-
-File đầu tiên cần đọc là phần tiền xử lý dữ liệu, hay processing raw data . Tại đây, có hai tệp chính: dữ liệu gốc – dùng để kiểm tra dữ liệu ban đầu, và dữ liệu đã qua xử lý – giúp theo dõi cách dữ liệu được biến đổi thông qua tệp .ipynb. Tiếp theo là prediction data, nơi dữ liệu được tinh chỉnh và làm giàu để chuẩn bị cho quá trình phân tích. Đồng thời, file này cũng mô tả các bước chạy thuật toán của mô hình học máy SVR và xuất dữ liệu để kiểm tra chi tiết hơn. Cuối cùng là analysis, nơi chứa các bảng dimensions-facts được tạo ra khi phân tích bằng PBI nhằm tối ưu hiệu suất phần mềm. Tại đây, có thể tìm thấy dữ liệu gốc ban đầu cùng với cơ sở dữ liệu quan hệ mới được xây dựng. Quan trọng nhất, phần phân tích, kể chuyện, mô tả và đề xuất đều được trình bày trong cùng một file này.
-Mỗi file đều có kèm một file README nên được đọc trước khi nghiên cứu các nội dung bên trong file đó.
-Các công nghệ được sử dụng trong bài bao gồm:
-
-Excel (.csv): chứa tệp dữ liệu gốc (nếu phát triển thêm có thể sử dụng Power Query để tổng hợp dữ liệu từ nhiều file khác nhau)
-
-Python: công nghệ chính được sử dụng nhằm làm sạch, làm giàu dữ liệu cũng như áp dụng thuật toán học máy, đưa ra dự đoán.
-
-PowerBI: được sử dụng nhằm trực quan hóa dữ liệu và làm tinh gọn cơ sở dữ liệu, tối ưu năng suất hoạt động.
+1. File đầu tiên cần đọc là phần tiền xử lý dữ liệu, hay <b>processing raw data </b>. Tại đây, có hai tệp chính: dữ liệu gốc – dùng để kiểm tra dữ liệu ban đầu, và dữ liệu đã qua xử lý – giúp theo dõi cách dữ liệu được biến đổi thông qua tệp .ipynb. Tiếp theo là <b>prediction data</b>, nơi dữ liệu được tinh chỉnh và làm giàu để chuẩn bị cho quá trình phân tích. Đồng thời, file này cũng mô tả các bước chạy thuật toán của mô hình học máy SVR và xuất dữ liệu để kiểm tra chi tiết hơn. Cuối cùng là <b>analysis</b>, nơi chứa các bảng dimensions-facts được tạo ra khi phân tích bằng PBI nhằm tối ưu hiệu suất phần mềm. Tại đây, có thể tìm thấy dữ liệu gốc ban đầu cùng với cơ sở dữ liệu quan hệ mới được xây dựng. Quan trọng nhất, phần phân tích, kể chuyện, mô tả và đề xuất đều được trình bày trong cùng một file này.
+2. Mỗi file đều có kèm một <b>file README nên được đọc trước khi nghiên cứu các nội dung bên trong</b> file đó.
+3. Các công nghệ được sử dụng trong bài bao gồm:
+- Excel (.csv): chứa tệp dữ liệu gốc (nếu phát triển thêm có thể sử dụng Power Query để tổng hợp dữ liệu từ nhiều file khác nhau)
+- Python: công nghệ chính được sử dụng nhằm làm sạch, làm giàu dữ liệu cũng như áp dụng thuật toán học máy, đưa ra dự đoán.
+- PowerBI: được sử dụng nhằm trực quan hóa dữ liệu và làm tinh gọn cơ sở dữ liệu, tối ưu năng suất hoạt động.
