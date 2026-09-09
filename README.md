@@ -9,12 +9,11 @@ Sử dụng bộ dữ liệu về tình hình nhân sự tuyển dụng tại c�
 4. [Kể chuyện qua dữ liệu và đề xuất hành động]()
    - Insight 1
    - Insight 2
-   - Insight 3
 
 Trong file README.md này sẽ giải thích thứ tự đọc file, mục đích phân tích và trong các file đó có gì. Bên dưới đây sẽ là tổng quan, bối cảnh của bài phân tích từ đó giúp người đọc hiểu rõ về đề tài này.
 
 ## Danh mục nội dung 
-- [Bài toán kinh tế]()
+- [Bài toán kinh tế](https://github.com/EnbacMig21/HR_Analyst_IT_employee/edit/main/README.md#b%C3%A0i-to%C3%A1n-kinh-t%E1%BA%BF)
 - [Mục đích phân tích]()
 - [Giải thích file]()
 - [Lời kết]()
@@ -30,4 +29,4 @@ Tại Mỹ, [nghiên cứu của Quillian và cộng sự (2017)](https://doi.or
 Những kết quả trên cho thấy việc xây dựng các tiêu chí tuyển dụng phù hợp và đánh giá ứng viên dựa trên những yếu tố liên quan đến năng lực là cần thiết nhằm hạn chế sai lệch trong quá trình tuyển dụng. Đây cũng là cơ sở để sử dụng dữ liệu nhằm xem xét các yếu tố liên quan đến khả năng được tuyển dụng và hỗ trợ quá trình ra quyết định nhân sự.
 
 ### Mục đích phân tích 
-
+Sự sai lệch trong tiêu chí tuyển dụng ảnh hưởng rất lớn đến sự phát triển hay suy vong của một công ty, bài phân tích sẽ phân tích tổng quan tình hình tuyển dụng của công ty, tìm hiểu vấn đề hiện tại và đưa ra các đề xuất khắc phục hợp lý. Các rủi ro như chi phí khắc phục hậu quả, giảm năng suất hiệu quả làm việc, bỏ lỡ nhân tài và tổn hại danh tiếng sẽ được giảm thiểu triệt để.
