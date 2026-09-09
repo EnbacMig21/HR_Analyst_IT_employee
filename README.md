@@ -28,5 +28,7 @@ Tại Mỹ, [nghiên cứu của Quillian và cộng sự (2017)](https://doi.or
 
 Những kết quả trên cho thấy việc xây dựng các tiêu chí tuyển dụng phù hợp và đánh giá ứng viên dựa trên những yếu tố liên quan đến năng lực là cần thiết nhằm hạn chế sai lệch trong quá trình tuyển dụng. Đây cũng là cơ sở để sử dụng dữ liệu nhằm xem xét các yếu tố liên quan đến khả năng được tuyển dụng và hỗ trợ quá trình ra quyết định nhân sự.
 
-### Mục đích phân tích 
+## Mục đích phân tích 
 Sự sai lệch trong tiêu chí tuyển dụng ảnh hưởng rất lớn đến sự phát triển hay suy vong của một công ty, bài phân tích sẽ phân tích tổng quan tình hình tuyển dụng của công ty, tìm hiểu vấn đề hiện tại và đưa ra các đề xuất khắc phục hợp lý. Các rủi ro như chi phí khắc phục hậu quả, giảm năng suất hiệu quả làm việc, bỏ lỡ nhân tài và tổn hại danh tiếng sẽ được giảm thiểu triệt để.
+
+## Giải thích
