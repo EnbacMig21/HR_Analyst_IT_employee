@@ -21,11 +21,7 @@ Trong file README.md này sẽ giải thích thứ tự đọc file, mục đíc
 
 ## Bài toán kinh tế 
 ### Định nghĩa Sự sai lệch tiêu chí tuyển dụng
-Sai lệch tuyển dụng (hiring bias) là hiện tượng người phỏng vấn hoặc người ra quyết định tuyển dụng bị chi phối bởi các yếu tố không liên quan trực tiếp đến năng lực thực tế của ứng viên, như: ngoại hình, giới tính, độ tuổi, trường đại học, giọng nói, xuất thân, hay thậm chí là “cảm giác hợp gu”.
-
-Thay vì dựa trên tiêu chí rõ ràng về kỹ năng, kinh nghiệm và tiềm năng đóng góp, quyết định lại bị dẫn dắt bởi định kiến vô thức (unconscious bias) hoặc thiên kiến đồng dạng (affinity bias) – tức là ưu ái những người giống mình, cùng sở thích, cùng nền tảng.
-
-Hậu quả trực tiếp là: nhiều ứng viên tiềm năng bị loại đáng tiếc, trong khi một số ứng viên được chọn chưa chắc đã phù hợp nhất với công việc và văn hóa công ty.
+Sai lệch tuyển dụng là hiện tượng người phỏng vấn hoặc người ra quyết định tuyển dụng bị chi phối bởi các yếu tố không liên quan trực tiếp đến năng lực thực tế của ứng viên, như: ngoại hình, giới tính, độ tuổi, trường đại học, giọng nói, xuất thân, hay thậm chí là “cảm giác hợp gu”. Thay vì dựa trên tiêu chí rõ ràng về kỹ năng, kinh nghiệm và tiềm năng đóng góp, quyết định lại bị dẫn dắt bởi định kiến vô thức. Hậu quả trực tiếp là: nhiều ứng viên tiềm năng bị loại đáng tiếc, trong khi một số ứng viên được chọn chưa chắc đã phù hợp nhất với công việc và văn hóa công ty. - [hiring bias](https://glints.com/vn/blog/hiring-bias-la-gi/)
 ### Ảnh Hưởng - Tại Sao Cần Hạn Chế Sai Lệch Tuyển Dụng?
 Sai lệch trong tuyển dụng có thể khiến những ứng viên có năng lực không được đánh giá công bằng, làm giảm cơ hội tiếp cận việc làm của một số nhóm ứng viên. Các nghiên cứu thực nghiệm cho thấy tình trạng phân biệt đối xử trong tuyển dụng vẫn tồn tại ở nhiều nhóm đối tượng. Meta-analysis của Lippens, Vermeiren và Baert (2023) trên European Economic Review tổng hợp các nghiên cứu về phân biệt đối xử trong tuyển dụng và cho thấy sự bất lợi vẫn xuất hiện đối với nhiều nhóm ứng viên, trong đó có người lớn tuổi, người khuyết tật và các nhóm có đặc điểm chủng tộc hoặc dân tộc nổi bật. Nghiên cứu cũng không tìm thấy bằng chứng về sự thay đổi theo thời gian một cách có hệ thống sau khi xem xét các yếu tố liên quan.
 
