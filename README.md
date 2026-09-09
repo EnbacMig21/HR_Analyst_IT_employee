@@ -13,7 +13,7 @@ Sử dụng bộ dữ liệu về tình hình nhân sự tuyển dụng tại c�
 Trong file README.md này sẽ giải thích thứ tự đọc file, mục đích phân tích và trong các file đó có gì. Bên dưới đây sẽ là tổng quan, bối cảnh của bài phân tích từ đó giúp người đọc hiểu rõ về đề tài này.
 
 ## Danh mục nội dung 
-- [Bài toán kinh tế](https://github.com/EnbacMig21/HR_Analyst_IT_employee/edit/main/README.md#b%C3%A0i-to%C3%A1n-kinh-t%E1%BA%BF)
+- [Bài toán kinh tế](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/README.md#b%C3%A0i-to%C3%A1n-kinh-t%E1%BA%BF)
 - [Mục đích phân tích]()
 - [Giải thích file]()
 - [Lời kết]()
