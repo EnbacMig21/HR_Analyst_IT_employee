@@ -2,11 +2,12 @@
 Sử dụng bộ dữ liệu về tình hình nhân sự tuyển dụng tại công ty để tiến hành phân tích. Dưới đây là quy trình phân tích, truy cập bằng cách bấm vào tiêu đề của quy trình:
 
 1. [Hiểu bài toán kinh tế](##Bài-toán-kinh-tế)
-2. [Thu thập dữ liệu và xử lý dữ liệu]()
-3. [Phân tích dữ liệu]()
-   - Khám phá dữ liệu
-   - Tiến hành phân tích và đánh giá các xu hướng
-4. [Kể chuyện qua dữ liệu và đề xuất hành động]()
+2. [Thu thập dữ liệu và xử lý dữ liệu](https://github.com/EnbacMig21/HR_Analyst_IT_employee/tree/main/processing-raw-data)
+   - [Dữ liệu nguyên thủy](https://github.com/EnbacMig21/HR_Analyst_IT_employee/tree/main/processing-raw-data/origin-data)
+   - [Làm sạch và tiền xử lý dữ liệu](https://github.com/EnbacMig21/HR_Analyst_IT_employee/tree/main/processing-raw-data/processed)
+4. [Phân tích dữ liệu]()
+
+5. [Kể chuyện qua dữ liệu và đề xuất hành động]()
    - Insight 1
    - Insight 2
 
