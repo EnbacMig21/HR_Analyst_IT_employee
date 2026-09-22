@@ -16,7 +16,7 @@ Trong file README.md này sẽ giải thích thứ tự đọc file, mục đíc
 - [Bài toán kinh tế](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/README.md#b%C3%A0i-to%C3%A1n-kinh-t%E1%BA%BF)
 - [Mục đích phân tích](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/README.md#m%E1%BB%A5c-%C4%91%C3%ADch-ph%C3%A2n-t%C3%ADch)
 - [Giải thích file](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/README.md#gi%E1%BA%A3i-th%C3%ADch)
-- [Lời kết]()
+- [Lời kết](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/README.md#l%E1%BB%9Di-k%E1%BA%BFt)
 
 ## Bài toán kinh tế 
 ### Định nghĩa Sự sai lệch tiêu chí tuyển dụng
