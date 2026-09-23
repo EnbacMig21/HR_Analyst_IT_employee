@@ -15,6 +15,6 @@ Trong đó, Employed là biến mục tiêu được sử dụng để phân bi�
 
 ## Hồ sơ chi tiết các ứng viên của công ty công nghệ: [stackoverflow_full.csv](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/processing-raw-data/origin-data/stackoverflow_full.csv)
 | Tên cột      	| Ý nghĩa | Type |
-|--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|--------------	|-------------------------------------------------------------------------------	|--------------	|
 | ID        	| ID của ứng viên | Integer  |
 
