@@ -13,7 +13,7 @@ Các trường dữ liệu có thể được chia thành các nhóm thông tin 
 
 Trong đó, Employed là biến mục tiêu được sử dụng để phân biệt ứng viên đã được tuyển dụng và ứng viên chưa được tuyển dụng. Các trường YearsCode, YearsCodePro, PreviousSalary và ComputerSkills cung cấp các thông tin định lượng phục vụ quá trình phân tích; trong khi EdLevel, Gender, MainBranch và Employment cung cấp các chiều phân loại ứng viên.
 
-## Hồ sơ chi tiết của tất cả 29 cầu thủ của câu lạc bộ Ajax trong mùa giải 2010-2011:[player_skill.csv](https://github.com/EnbacMig21/football-project/blob/main/processing-raw-data/origin-data/player_skill.csv)
+## Hồ sơ chi tiết các ứng viên của công ty công nghệ: [stackoverflow_full.csv](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/processing-raw-data/origin-data/stackoverflow_full.csv)
 | Tên cột      	| Ý nghĩa|
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Player        	| Tên của các cầu thủ |
