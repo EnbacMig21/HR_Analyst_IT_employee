@@ -22,6 +22,14 @@ Trong đó, Employed là biến mục tiêu được sử dụng để phân bi�
 | Edlevel        	| Trình độ học vấn | String  |
 | Employment        	| Tình trạng việc làm tại thời điểm hiện tại | Boolean  |
 | Gender        	| Giới tính của ứng viên | String  |
+| MentalHealth        	| Có gặp vấn đề về sức khỏe tâm thần hay không ? | Boolean  |
+| MainBranch        	| Phân loại Developer hoặc Not Developer | String  |
+| YearsCode        	| Số năm đã lập trình | Integer  |
+| YearsCodePro        	| Số năm đã lập trình chuyên nghiệp | Integer  |
+| YearsCode        	| Số năm đã lập trình | Integer  |
+
+
+
 
 
 
