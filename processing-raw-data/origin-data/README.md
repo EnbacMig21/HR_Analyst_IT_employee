@@ -1,4 +1,4 @@
-# Tổng quan dữ liệu đầu vào. 
+<img width="275" height="80" alt="image" src="https://github.com/user-attachments/assets/2802e2ea-7d03-4b01-8269-8d20bf32d76d" /># Tổng quan dữ liệu đầu vào. 
 Đây là bộ dữ liệu gồm thông tin của hơn 70.000 ứng viên của một công ty công nghệ với quy mô toàn cầu.
 Tổng quan bộ dữ liệu gốc như sau:
 | Chỉ tiêu     	| Giá trị|
@@ -17,4 +17,11 @@ Trong đó, Employed là biến mục tiêu được sử dụng để phân bi�
 | Tên cột      	| Ý nghĩa | Type |
 |--------------	|-------------------------------------------------------------------------------	|--------------	|
 | ID        	| ID của ứng viên | Integer  |
+| Age        	| Tuổi của ứng viên (<35 or >35) | String  |
+| Accessibility | Có bị khiếm khuyết hay không ? | Boolean  |
+| Edlevel        	| Trình độ học vấn | String  |
+| Employment        	| Tình trạng việc làm tại thời điểm hiện tại | Boolean  |
+| Gender        	| Giới tính của ứng viên | String  |
+
+
 
