@@ -8,6 +8,11 @@ Tổng quan bộ dữ liệu gốc như sau:
 | Được tuyển (Employed = 1)   	| 39.392    |
 | Không được tuyển (Employed = 0)	| 34.070   |
 
+Các trường dữ liệu có thể được chia thành các nhóm thông tin gồm thông tin cá nhân, trình độ học vấn và tình trạng việc làm, kinh nghiệm lập trình, mức lương, kỹ năng máy tính, và biến mục tiêu Employed.
+
+Trong đó, Employed là biến mục tiêu được sử dụng để phân biệt ứng viên đã được tuyển dụng và ứng viên chưa được tuyển dụng. Các trường YearsCode, YearsCodePro, PreviousSalary và ComputerSkills cung cấp các thông tin định lượng phục vụ quá trình phân tích; trong khi EdLevel, Gender, MainBranch và Employment cung cấp các chiều phân loại ứng viên.
+<img width="7352" height="317" alt="image" src="https://github.com/user-attachments/assets/7e92fc28-f233-4dc4-a8f2-bdb39f176a96" />
+
 ## Hồ sơ chi tiết của tất cả 29 cầu thủ của câu lạc bộ Ajax trong mùa giải 2010-2011:[player_skill.csv](https://github.com/EnbacMig21/football-project/blob/main/processing-raw-data/origin-data/player_skill.csv)
 | Tên cột      	| Ý nghĩa|
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
