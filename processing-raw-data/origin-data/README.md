@@ -1,5 +1,13 @@
-# Thu thập dữ liệu các chỉ số của cầu thủ 
-Để minh họa mô hình chúng tôi sử dụng một bộ dữ liệu thực tế.
+# Tổng quan dữ liệu đầu vào. 
+Đây là bộ dữ liệu gồm thông tin của hơn 70.000 ứng viên của một công ty công nghệ với quy mô toàn cầu.
+Tổng quan bộ dữ liệu gốc như sau:
+| Chỉ tiêu     	| Giá trị|
+|--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Bản ghi        	| 73.426 |
+| Số cột     	| 15  |
+| Được tuyển (Employed = 1)   	| 39.392    |
+| Không được tuyển (Employed = 0)	| 34.070   |
+
 ## Hồ sơ chi tiết của tất cả 29 cầu thủ của câu lạc bộ Ajax trong mùa giải 2010-2011:[player_skill.csv](https://github.com/EnbacMig21/football-project/blob/main/processing-raw-data/origin-data/player_skill.csv)
 | Tên cột      	| Ý nghĩa|
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
