@@ -16,23 +16,5 @@ Trong đó, Employed là biến mục tiêu được sử dụng để phân bi�
 ## Hồ sơ chi tiết các ứng viên của công ty công nghệ: [stackoverflow_full.csv](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/processing-raw-data/origin-data/stackoverflow_full.csv)
 | Tên cột      	| Ý nghĩa | Type |
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| ID        	| ID của ứng viên |
-| Short pass back     	| Chuyền ngắn về phía sau  |
-| Short pass forward   	| Chuyền ngắn lên phía trước    |
-| Short pass wide	| Chuyền ngắn ra biên   |
-| Long pass back	| Chuyền dài về phía sau |
-| Long pass forward	| Chuyền dài lên phía trước  |
-| Long pass wide	| Chuyền dài ra biên  | 
-| Cross	 | Tạt bóng  |
-| Heading	 | Đánh đầu  |
-| Finishing	 | Dứt điểm   | 
-| Long shot	 | Sút xa |
-| Dribbles	 | Rê dắt bóng, qua người  | 
-|  Reception	| Khống chế bóng bước một  |
-| Interceptions	 | Cắt bóng |
-| Goalkeeping	 | Cản phá bóng(GK)  |
-| Goal kick	 | Phát bóng dài (GK)  |
-| Set pieces	| Tình huống cố định   |
-| Short pass	 | Chuyền ngắn (Tổng quát)  |
-| Long Passes	 | Chuyền dài(Tổng quát)  |
-| Pressing	    | Áp sát, gây áp lực |
+| ID        	| ID của ứng viên | Integer  |
+
