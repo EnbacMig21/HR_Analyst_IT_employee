@@ -3,8 +3,8 @@
 Tổng quan bộ dữ liệu gốc như sau:
 | Chỉ tiêu     	| Giá trị|
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Bản ghi        	| 73.426 |
-| Số cột     	| 15  |
+| Số bản ghi        	| 73.426 |
+| Số trường dữ liệu     	| 15  |
 | Được tuyển (Employed = 1)   	| 39.392    |
 | Không được tuyển (Employed = 0)	| 34.070   |
 
@@ -14,9 +14,9 @@ Các trường dữ liệu có thể được chia thành các nhóm thông tin 
 Trong đó, Employed là biến mục tiêu được sử dụng để phân biệt ứng viên đã được tuyển dụng và ứng viên chưa được tuyển dụng. Các trường YearsCode, YearsCodePro, PreviousSalary và ComputerSkills cung cấp các thông tin định lượng phục vụ quá trình phân tích; trong khi EdLevel, Gender, MainBranch và Employment cung cấp các chiều phân loại ứng viên.
 
 ## Hồ sơ chi tiết các ứng viên của công ty công nghệ: [stackoverflow_full.csv](https://github.com/EnbacMig21/HR_Analyst_IT_employee/blob/main/processing-raw-data/origin-data/stackoverflow_full.csv)
-| Tên cột      	| Ý nghĩa|
+| Tên cột      	| Ý nghĩa | Type |
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Player        	| Tên của các cầu thủ |
+| ID        	| ID của ứng viên |
 | Short pass back     	| Chuyền ngắn về phía sau  |
 | Short pass forward   	| Chuyền ngắn lên phía trước    |
 | Short pass wide	| Chuyền ngắn ra biên   |
