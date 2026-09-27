@@ -1,4 +1,4 @@
-<img width="275" height="80" alt="image" src="https://github.com/user-attachments/assets/2802e2ea-7d03-4b01-8269-8d20bf32d76d" /># Tổng quan dữ liệu đầu vào. 
+# Tổng quan dữ liệu đầu vào. 
 Đây là bộ dữ liệu gồm thông tin của hơn 70.000 ứng viên của một công ty công nghệ với quy mô toàn cầu.
 Tổng quan bộ dữ liệu gốc như sau:
 | Chỉ tiêu     	| Giá trị|
