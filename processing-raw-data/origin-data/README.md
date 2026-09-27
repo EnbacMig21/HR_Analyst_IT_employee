@@ -27,6 +27,11 @@ Trong đó, Employed là biến mục tiêu được sử dụng để phân bi�
 | YearsCode        	| Số năm đã lập trình | Integer  |
 | YearsCodePro        	| Số năm đã lập trình chuyên nghiệp | Integer  |
 | YearsCode        	| Số năm đã lập trình | Integer  |
+| Previous Salary        	| Mức lương công việc trước đây | Integer  |
+| Country        	| Quốc gia | String  |
+| HaveWorkedWith        	| Ngôn ngữ, công cụ đã từng làm việc  | String  |
+| Computer Skills        	| Số lượng kỹ năng | Integer  |
+| Employed        	| Được tuyển hay bị loại | Boolean  |
 
 
 
